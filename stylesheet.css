@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Tay Kari';
+    src: url('TayKariRegular.eot');
+    src: url('TayKariRegular.eot?#iefix') format('embedded-opentype'),
+        url('TayKariRegular.woff2') format('woff2'),
+        url('TayKariRegular.woff') format('woff'),
+        url('TayKariRegular.ttf') format('truetype'),
+        url('TayKariRegular.svg#TayKariRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TAY Rosemary';
+    src: url('TAYRosemaryRegular.eot');
+    src: url('TAYRosemaryRegular.eot?#iefix') format('embedded-opentype'),
+        url('TAYRosemaryRegular.woff2') format('woff2'),
+        url('TAYRosemaryRegular.woff') format('woff'),
+        url('TAYRosemaryRegular.ttf') format('truetype'),
+        url('TAYRosemaryRegular.svg#TAYRosemaryRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TAY Kula';
+    src: url('TAYKulaRegular.eot');
+    src: url('TAYKulaRegular.eot?#iefix') format('embedded-opentype'),
+        url('TAYKulaRegular.woff2') format('woff2'),
+        url('TAYKulaRegular.woff') format('woff'),
+        url('TAYKulaRegular.ttf') format('truetype'),
+        url('TAYKulaRegular.svg#TAYKulaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
